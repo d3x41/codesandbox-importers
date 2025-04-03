@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@appsignal/nodejs": "^2.0.25",
-    "@babel/core": "^7.23.2",
+    "@babel/core": "^7.26.10",
     "@babel/traverse": "^7.23.2",
     "@koa/router": "^9.4.0",
     "@sentry/node": "5.13.2",
